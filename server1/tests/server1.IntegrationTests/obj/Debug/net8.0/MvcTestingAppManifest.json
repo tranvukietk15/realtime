@@ -1,0 +1,6 @@
+{
+  "server1.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/kiettranv\/Documents\/Projects\/realtime\/server1\/src\/server1.Core",
+  "server1.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/kiettranv\/Documents\/Projects\/realtime\/server1\/src\/server1.Infrastructure",
+  "server1.SharedKernel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/kiettranv\/Documents\/Projects\/realtime\/server1\/src\/server1.SharedKernel",
+  "server1.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/kiettranv\/Documents\/Projects\/realtime\/server1\/tests\/server1.UnitTests"
+}

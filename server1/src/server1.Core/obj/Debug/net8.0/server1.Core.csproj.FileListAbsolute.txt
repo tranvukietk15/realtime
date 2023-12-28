@@ -1,0 +1,16 @@
+/Users/kiettranv/Documents/Projects/realtime/server1/src/server1.Core/bin/Debug/net8.0/server1.Core.deps.json
+/Users/kiettranv/Documents/Projects/realtime/server1/src/server1.Core/bin/Debug/net8.0/server1.Core.dll
+/Users/kiettranv/Documents/Projects/realtime/server1/src/server1.Core/bin/Debug/net8.0/server1.Core.pdb
+/Users/kiettranv/Documents/Projects/realtime/server1/src/server1.Core/bin/Debug/net8.0/server1.SharedKernel.dll
+/Users/kiettranv/Documents/Projects/realtime/server1/src/server1.Core/bin/Debug/net8.0/server1.SharedKernel.pdb
+/Users/kiettranv/Documents/Projects/realtime/server1/src/server1.Core/obj/Debug/net8.0/server1.Core.csproj.AssemblyReference.cache
+/Users/kiettranv/Documents/Projects/realtime/server1/src/server1.Core/obj/Debug/net8.0/server1.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiettranv/Documents/Projects/realtime/server1/src/server1.Core/obj/Debug/net8.0/server1.Core.AssemblyInfoInputs.cache
+/Users/kiettranv/Documents/Projects/realtime/server1/src/server1.Core/obj/Debug/net8.0/server1.Core.AssemblyInfo.cs
+/Users/kiettranv/Documents/Projects/realtime/server1/src/server1.Core/obj/Debug/net8.0/server1.Core.csproj.CoreCompileInputs.cache
+/Users/kiettranv/Documents/Projects/realtime/server1/src/server1.Core/obj/Debug/net8.0/server1.Core.sourcelink.json
+/Users/kiettranv/Documents/Projects/realtime/server1/src/server1.Core/obj/Debug/net8.0/server1.Core.csproj.CopyComplete
+/Users/kiettranv/Documents/Projects/realtime/server1/src/server1.Core/obj/Debug/net8.0/server1.Core.dll
+/Users/kiettranv/Documents/Projects/realtime/server1/src/server1.Core/obj/Debug/net8.0/refint/server1.Core.dll
+/Users/kiettranv/Documents/Projects/realtime/server1/src/server1.Core/obj/Debug/net8.0/server1.Core.pdb
+/Users/kiettranv/Documents/Projects/realtime/server1/src/server1.Core/obj/Debug/net8.0/ref/server1.Core.dll

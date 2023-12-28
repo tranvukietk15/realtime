@@ -1,0 +1,75 @@
+# .NET Core
+## Build artifacts
+bin/
+obj/
+
+## .NET Core Files
+*.dll
+*.exe
+*.pdb
+*.userprefs
+*.vscode
+*.vs
+*.suo
+*.cache
+*.log
+*.npmrc
+*.yarnrc
+*.lock
+*.csproj.user
+*.user
+*.vsix
+*.vsixmanifest
+*.vssettings
+*.vssscc
+*.vsmdi
+*.vstemplate
+*.vsct
+*.vspscc
+*.vssscc
+*.vsprops
+*.vsixlangpack
+*.vstemplate
+*.vsz
+*.vstemplate
+*.vsixlangpack
+*.vsixmanifest
+*.vssettings
+*.vssscc
+*.vsz
+
+# React.js
+## Build artifacts
+build/
+dist/
+out/
+.next/
+node_modules/
+
+## IDE/Editor specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+*.komodotools
+*.komodoproject.*
+*.komodotools.*
+*.swp
+*.swo
+*.swp
+*.swo
+*.bak
+*.bak.*
+*.tmp
+*.tmp.*
+*.log
+*.log.*
+*.DS_Store
+*.bak
+*.bak.*
+*.tmp
+*.tmp.*
+*.log
+*.log.*
+*.DS_Store

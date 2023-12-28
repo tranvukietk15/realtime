@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FYh1BwrjanffdxT6PLQXsdAJo2S6iHnNID0J6bYprKub3/H1dKkT+ys3UnDZIkdzE1SUmLtFRSYfW9MDcTcULw==",
+  "success": true,
+  "projectFilePath": "/Users/kiettranv/Documents/Projects/realtime/server1/src/server1.SharedKernel/server1.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "/Users/kiettranv/.nuget/packages/ardalis.specification/6.1.0/ardalis.specification.6.1.0.nupkg.sha512",
+    "/Users/kiettranv/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/kiettranv/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
